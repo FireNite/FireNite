@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monish!</h1>
-<h3 align="center">I'm working to be a Full-Stack Developer!</h3>
+<h3 align="center">I'm learning hard to be a Full-Stack Developer!</h3>
 
 - 🌱 I’m currently learning **C# and C Sharp**
 
